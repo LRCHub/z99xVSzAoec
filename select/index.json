@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "祝祭（feat. 三浦透子）",
+  "base_artist": "RADWIMPS",
+  "createdAt": "2026-01-13T08:20:14.336210Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "祝祭 (feat.三浦透子) [Movie edit]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_祝祭_(feat.三浦透子)_[Movie_edit]_RADWIMPS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "祝祭 feat. 三浦透子",
+      "artist": "RADWIMPS",
+      "has_synced": false,
+      "path": "select/pl_01_祝祭_feat._三浦透子_RADWIMPS.txt"
+    }
+  ]
+}
